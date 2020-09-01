@@ -1,0 +1,4 @@
+
+const myobject = {
+    key: "value"
+}
